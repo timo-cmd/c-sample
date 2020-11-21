@@ -10,3 +10,7 @@ c-sample project
 
 
 Licensed and developed by Timo Sarkar 2020 
+
+
+Visit my website at: https://timo-cmd.github.io
+Visit my github profile at: https://github.com/timo-cmd
