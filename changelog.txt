@@ -1,0 +1,20 @@
+v0.0.1pre-alpha "basics.c hinzugefügt plus diverse erklärungen." 
+    initial commit 10.11.20|10:51 ETC
+
+v0.0.2pre-alpha "conditionals.c hinzugefügt, Apache 2.0 Public lizenz geadded, project.txt" 
+    second version release 24.11.20|14:02 ETC
+
+v0.0.3pre-alpha "functions.c hinzugefügt, diverse erklärungen zu unterfunktionen" 
+    third version release 05.12.20|10:54 ETC
+
+v0.0.4pre-alpha "aufgabe6.c hinzugefügt um die Aufgabe 6 zu lösen" 
+    fourth version release 05.12.20|10:55 ETC
+
+v0.1.0dev "./bin und ./include ordner generiert um compilierte lösungen zu speichern." 
+    first major release 05.12.20|11:00 ETC
+
+v0.1.1dev "sha256sum.txt generiert, private-key mit Kleopatra generiert, confgen.c hinzugefügt" 
+    second major release 05.12.20|11:20 ETC
+
+v0.1.2dev "changelog.txt geadded"
+    third major release 05.12.20|11:30 ETC
