@@ -10,7 +10,6 @@ int main(/*optionali variable münd da ine protokolliert werde zb.:*/ int i, cha
   // alles was zwüsche dene klammere staht, wird uusgfüert
   // btw...
   // Alli linie wo mit emene doppel-slash beginned sind kommentär und werded   // fum programm ignoriert.
-  // return 0; // return ish damit s Programm weiss dass mer es = zrugggebed   // und so de Fehlercode 0 also "kein fehler" hinterleit wird
   // so...
   // was ich jz erchääre sind datentypen also wie char, string, bool, int     // usw...
   // lets get started.:
@@ -98,7 +97,9 @@ int main(/*optionali variable münd da ine protokolliert werde zb.:*/ int i, cha
   printf("float f nach int i: %d\n", i);
   // ND DE RETURN WERT VERGESSE:
   return 0;
-  // guet das ish es ksi; ich ha kei ziit meh aber das ishs was ich dokumentiert ha, de rescht ish im klasse chat.: wenn du no meh frage hesch fragsch eif!
 
   // arigato gozai masu!
+  // completely over-engineered XD 
+  // try to rewrite it asap XDxD
+
 }
