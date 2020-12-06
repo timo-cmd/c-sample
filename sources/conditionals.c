@@ -7,7 +7,7 @@
 
 /* prä-prozess conditionals */
 #ifndef ___CONDITIONALS_C___ /* wenn diese datei nicht conditionals.c heisst... */
-    #define ___CONDITIONALS_C___ /* ...führe dann folgenden code aus: bennene diese datei: conditionals.c */
+#define ___CONDITIONALS_C___ /* ...führe dann folgenden code aus: bennene diese datei: conditionals.c */
 #endif /* ende der Abfragung */
 
 int main( /* optionale variablen können hier für die ganze funktion vererbt werden */ ) { /* beginnen der Hauptfunktion: 'main' */
