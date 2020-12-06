@@ -1,24 +1,58 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <math.h>
+#include <errno.h>
+#include <tsring.h>
+#include <stdbool.h>
+
 #define cWahl NULL
 #define fRadiusAussen NULL
 #define fRadiusInnen NULL
 #define fHoehe NULL
 #define fVolumen NULL 
 #define Pi 3.141592
+#define payload "Berechnung von geometrischen Körpern\n\nBitte wählen Sie einen geometrischen Körper: [Z = Zylinder, H= Hohlzylinder]:"
 
 int main( ) { 
-    printf("Berechnung von geometrischen Körpern\n\n");
-    printf("Bitte wählen Sie einen geometrischen Körper: [Z = Zylinder, H= Hohlzylinder]:");
-    scanf_s("%c", &cWahl);
+    void payload( void ) {
+        printf( payload );
+        payload()
+    }
+
+    void scanf( ) {
+        scanf_s("%c", &cWahl);
+        scanf()
+    }
 
     if ('Z' == cWahl ||'z' == cWahl ) {
         float radius( fRadiusAussen ) {
-            printf("Radius:");
-            scanf_s("%f", &fRadiusAussen);
+            void radius() {
+                printf("Radius:");
+                radius()
+            }
+
+            void scanfradiusinnen() {}
+                scanf_s("%f", &fRadiusAussen);
+                scanfradiusinnen()
+            }
         }
         
         float hoehe( fHoehe ) {
-            printf("Höhe:");
-            scanf_s("%f",&fHoehe);fVolumen = Pi * fRadiusAussen* fRadiusAussen* fHoehe;  
+            void hoehe() {
+                printf("Höhe:");
+                hoehe()
+            }
+
+
+            void scanhoehe() {}
+                scanf_s("%f",&fHoehe);
+                scanhoehe()
+            }
+
+            void voluem() {
+                fVolumen = Pi * fRadiusAussen* fRadiusAussen* fHoehe;  
+                voluem()
+            }
         }
 
         radius()
@@ -26,7 +60,11 @@ int main( ) {
         printf("Das Volumen ist gleich : %0.3f", fVolumen);
     } else if ('H' == cWahl ||'h' == cWahl) {
         void aussen( fRadiusAussen ) {
-            printf("Radius Aussen:");
+            void printfradius() {}
+                printf("Radius Aussen:");
+            }
+
+            void 
             scanf_s("%f", &fRadiusAussen);
         }
 
