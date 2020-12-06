@@ -6,7 +6,7 @@
 #endif
 
 #ifndef NAN
-#define NAN NULL
+#define NAN NULL // try to add own NaN value asap
 #endif
 
 int main( argc, char* argv ) /* main function */ {
