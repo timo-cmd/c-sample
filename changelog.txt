@@ -10,11 +10,26 @@ v0.0.3pre-alpha "functions.c hinzugefügt, diverse erklärungen zu unterfunktion
 v0.0.4pre-alpha "aufgabe6.c hinzugefügt um die Aufgabe 6 zu lösen" 
     fourth version release 05.12.20|10:55 ETC
 
-v0.1.0dev "./bin und ./include ordner generiert um compilierte lösungen zu speichern." 
-    first major release 05.12.20|11:00 ETC
+v0.0.5dev "./bin und ./include ordner generiert um compilierte lösungen zu speichern." 
+    fift major release 05.12.20|11:00 ETC
 
-v0.1.1dev "sha256sum.txt generiert, private-key mit Kleopatra generiert, confgen.c hinzugefügt" 
-    second major release 05.12.20|11:20 ETC
+v0.1.0dev "sha256sum.txt generiert, private-key mit Kleopatra generiert, confgen.c hinzugefügt" 
+    intial bump release 05.12.20|11:20 ETC
 
-v0.1.2dev "changelog.txt geadded"
-    third major release 05.12.20|11:30 ETC
+v0.1.1dev "changelog.txt geadded"
+    first major release 05.12.20|11:30 ETC
+    
+v0.1.2dev "added small patches in basics.c" 
+    second major release 06.12.20|10:23 ETC
+
+v0.1.3dev "fixed small typos  in conditionals.c"
+    third major release 06.12.20|10:25
+
+v0.1.4dev "updated functions.c"
+    fourth major release 06.12.20|10:25
+
+v0.1.5dev "added typo patches in functions.c"
+    fift major release 06.12.20|10:27
+
+v0.2.0beta "added polymorphic function behaviour in functions.c"
+    second bump release 06.12.20|10:28
